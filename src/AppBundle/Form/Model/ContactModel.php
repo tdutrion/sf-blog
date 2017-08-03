@@ -38,7 +38,7 @@ class ContactModel
     public function setEmail($email)
     {
         $this->email = $email;
-    }  
+    }
 
     public function getObject()
     {
@@ -48,7 +48,7 @@ class ContactModel
     public function setObject($object)
     {
         $this->object = $object;
-    } 
+    }
 
     public function getMessage()
     {
